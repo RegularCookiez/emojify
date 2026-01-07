@@ -1,9 +1,10 @@
 # emojify
-Converts any text into an emojipasta by matching words to emojis, and adding filler emojis every now and then.
 
-To be used for humorous effect (by spamming emojis).
+A tool used to convert long paragraphs into humorous emojipastas (with emoji spam).
 
-There are currently 6k+ hardcoded emoji-word mappings in the text file, which should be decent.
+It takes each word delimited by spaces, and constructs lowercase symbolless words for comparison. It maps matching words to a sizeable text file with 6k+ hardcoded mappings.
+
+It also adds filler emojis based on a counter that is incremented whenever a word that has no mapped emoji is found.
 
 ## Use Guide
 Download emojipasta.py and emojipasta.txt from the repository.
