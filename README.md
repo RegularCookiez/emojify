@@ -3,6 +3,8 @@ Converts any text into an emojipasta by matching words to emojis, and adding fil
 
 To be used for humorous effect (by spamming emojis).
 
+There are currently 6k+ hardcoded emoji-word mappings in the text file, which should be decent.
+
 ## Use Guide
 Download emojipasta.py and emojipasta.txt from the repository.
 
