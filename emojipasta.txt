@@ -1,0 +1,808 @@
+8596 | between betweens wide widely wider widest width widths widen widens widened widening extent extents extend extends extended extending extension extensions extensive extensively expand expands expanded expanding expansion expansions expansive expansively lengthen lengthens lenghtened lengthening broad broadly broader broadest broaden broadens broadened broadening spread spreads spreaded spreading far
+8597 | height heights
+9000 | keyboard keyboards
+9194 | was were
+9201 | timer timers stopwatch stopwatches
+9203 | hourglass hourglasses
+9729 | cloud clouds clouded clouding cloudy cloudier cloudiest cloudily
+9730 | umbrella umbrellas
+9731 | snowman snowmen snowwoman snowwomen
+9732 | comet comets
+9742 | telephone telephones telephoned telephoning call calls called calling
+9749 | coffee coffees java javas cappuccino cappuccinos espresso espressos macchiato macchiatos americano americanos latte lattes mocha mochas
+9752 | shamrock shamrocks
+9762 | radiate radiates radiated radiating radiation radiations radioactive radioactively
+9763 | biohazard biohazards
+9774 | pacifist pacifists pacifism pacifisms pacifistic pacifistically
+9786 | blush blushes blushed blushing flatter flatters flattered flattering flattery flatteries
+9800 | aries
+9801 | taurus tauruses
+9802 | gemini geminis
+9805 | virgo virgos virgoes
+9806 | libra libras
+9807 | scorpio scorpios
+9808 | sagittarius sagittariuses
+9809 | capricorn capricorns
+9810 | aquarius aquariuses
+9811 | pisces pisceses
+9823 | pawn pawns chess chesses chessed chessing
+9851 | recycle recycles recycled recycling recyclable recyclably
+9854 | infinite infinity infinities unlimited
+9875 | anchor anchors anchored anchoring
+9876 | parry parries parried parrying
+9878 | justice justices
+9881 | gear gears cog cogs
+9883 | atom atoms atomic atomically
+9888 | warn warns warned warning warnings danger dangers dangerous dangerously
+9889 | energy energies energise energises energised energising energize energizes energized energizing volt volts voltage voltages electric electrical electrically electricity electricites electrocute electrocutes electrocuted electrocuting electrocution electrocutions
+9898 | white silver silvery whiten whitens whitened whitening
+9899 | black ebony blacken blackens blackened blackening
+9904 | coffin coffins funeral funerals casket caskets
+9905 | urn urns
+9917 | soccer football footballs
+9918 | baseball baseballs
+9928 | thunderstorm thunderstorms storm storms stormy stormily stormier stormiest tempest tempests
+9934 | ophiuchus ophiuchuses
+9935 | pickaxe pickaxes
+9939 | chain chains chained chaining
+9962 | church churches
+9968 | mountain mountains hill hills peak peaks summit summits mountainous
+9969 | parasol parasols
+9970 | fountain fountains
+9972 | ferry ferries
+9973 | sailboat sailboats sail sails sailed sailing
+9975 | ski skis skied skiing
+9978 | tent tents camp camps camped camping campsite campsites
+9981 | fuel fuels fueled fuelled fuel fuelling gasoline gasolines petrol petrols paraffin paraffins diesel diesels
+9986 | scissors snip snips snipped snipping
+9989 | correct correctly valid validly validity validities verify verifies verified verifying verification verification tick ticks ticked ticking checkmark checkmarks confirm confirms confirmed confirming
+9992 | plane planes airplane airplanes aeroplane aeroplanes travel travels travelled travelling
+9993 | envelope envelopes message messages
+9994 | hold holds held holding grip grips gripped gripping
+9995 | hand excuse excuses excused excusing abstain abstains abstained abstaining abstinence abstinences stop stops stopped stopping enough
+9997 | pencilled pencilling sketch sketches sketched sketching scribble scribbles scribbled scribbling write writes wrote written writing writings
+9999 | pencil pencils
+10006 | multiply multiplies multiplied multiplying multiplication multiplications multiplier multipliers
+10024 | new newer newest newly sparkle sparkles sparkled sparkling gleam gleams gleamed gleaming shine shines shined shiny shinily shinier shiniest shining glimmer glimmers glimmered glimmering glisten glistens glistened glistening shimmer shimmers shimmered shimmering glint glints glinted glinting
+10052 | snowflake snowflakes
+10060 | cant aint isnt arent wasnt dont doesnt wont werent not never wrong wronger wrongest wrongly incorrect incorrectly invalid cross x false falser falsest falsely impossible impossibly
+10067 | unknown mystery mysteries mysterious question questions questioned questioning query queries queried querying inquiry inquiries enquiries enquiry inquire inquires inquiring inquired enquires enquired enquire enquiring ask asked asks asking questionmark questionmarks what whats whatll why who where how hidden
+10084 | heart hearts alive life health healths healthy healthily healthier healthiest
+10133 | and plus pluses add adds added adding addition additions additive additives additional additionally
+10134 | minus subtract subtracts subtracted subtracting substraction subtractions
+10135 | divide divides divided dividing division divisions
+10145 | right righthand to is the dextral forward forwards forth
+10548 | over
+11013 | left lefthand backward backwards
+11014 | up upward upwards
+11015 | down downward downwards
+11088 | star stars
+126980 | mahjong
+127379 | free
+127384 | sos
+127386 | vs versus
+127744 | cyclone cyclones
+127747 | night nights nighttime nighttimes nightly
+127749 | sunrise sunrises dawn dawns
+127750 | dusk dusks dusky duskily duskier duskiest
+127752 | rainbow rainbows
+127754 | tsunami tsunamis sea seas ocean oceans oceanic marine maritime
+127755 | volcano volcanoes volcanic supervolcano supervolcanoes erupt erupts erupted erupting eruption eruptions
+127756 | galaxy galaxies galactic galactically
+127757 | continent continents continental continentally africa african africans globe globes earth earths world worlds worldwide
+127760 | internet internets network networks
+127765 | moon moons moonlight moonlights lunar
+127769 | crescent crescents
+127777 | thermal thermally thermometer thermometers
+127782 | sunshower sunshowers
+127783 | rain rains rained raining rainy rainier rainiest precipitation precipitations
+127784 | snow snows snowed snowing snowy snowier snowiest winter winters wintry
+127785 | lightning lightnings thunder thunders thunderous thunderously
+127786 | tornado tornadoes twister twisters
+127787 | fog fogs fogged fogging foggy foggier foggiest foggily haze hazes hazed hazing hazy hazier haziest hazily smoke smokes smoky smokier smokiest smokily obscure obscures obscured obscuring obscurity obscurities
+127789 | hotdog hotdogs weiner weiners weenie weenies
+127790 | taco tacos
+127791 | burrito burritos taquito taquitos
+127793 | sprout sprouts sprouted sprouting seedling seedlings
+127794 | tree trees greenery verdure sapling saplings conifer conifers evergreen evergreens oak oaks spruce spruces treed treeing forest forests jungle jungles greenwood greenwoods
+127795 | deciduous
+127796 | palm palms
+127797 | cactus cacti
+127798 | pepper peppers peppery chili chilis spicy spicier spiciest spicily capsaicin capsaicins scoville scovilles
+127799 | tulip tulips
+127801 | rose roses poppy poppies
+127802 | hibiscus hibiscuses
+127803 | sunflower sunflowers
+127805 | corn corns maize maizes
+127806 | rice barley barleys wheat wheats buckwheat buckwheats sheaf sheaves
+127807 | herb herbs herbal herbally
+127808 | luck lucks lucky luckily fortune fortunate fortunately lucked lucking luckier luckiest luckiness luckinesses
+127809 | maple maples
+127811 | leaf
+127812 | fungus fungi mushroom mushrooms
+127813 | tomato tomatoes
+127814 | aubergine aubergines eggplant eggplants dick dicks penis penises penile cock cocks schlong schlongs pp pps peepee peepees testicle testicles testicular
+127815 | grape grapes
+127817 | melon melons watermelon watermelons
+127818 | oranges tangerine tangerines
+127819 | lemon lemons lemony
+127820 | banana bananas plantain plantains
+127821 | pineapple pineapples
+127822 | apple apples fruit fruits fruity fruitier fruitiest fruitily fruitiness fruitinesses
+127824 | pear pears
+127825 | peach peaches ass asses butt butts buttocks anus anuses rectum rectums
+127826 | cherry cherries
+127827 | strawberry strawberries
+127828 | burger burgers cheeseburger cheeseburgers hamburger hamburgers whopper whoppers
+127829 | pizza pizzas
+127834 | arborio basmati rice grain grains meth methamphetamine
+127836 | ramen noodles
+127837 | pasta pastas spaghetti
+127838 | bread breads loaf loaves
+127839 | fries mcdonalds mcd maccies
+127843 | sushi sushis nigiri nigirizushi maki
+127846 | icecream icecreams gelato gelatos yogurt yogurts yoghurt yoghurts
+127848 | sundae sundaes
+127849 | donut donuts doughnut doughnuts
+127850 | cookie cookies
+127851 | chocolate chocolates choco hersheys feastables kitkat kitkats cadbury
+127852 | sweet sweets candy candies taffy taffies
+127853 | lollipop lollipops
+127854 | custard custards
+127855 | honey honeys
+127856 | shortcake shortcakes
+127857 | bento bentos meal meals food foods
+127858 | soup soups soupy soupier soupiest bouillon bouillons gumbo gumbos broth broths bisque bisques goulash gazpacho gazpachos
+127859 | fry fries fried frying cook cooks cooked cooking
+127860 | cutlery flatware silverware
+127861 | tea teas
+127863 | wine wines
+127864 | cocktail cocktails
+127866 | beer beers ale ales rum rums pint pints
+127869 | plate plates dine dines dined dining
+127870 | alcohol alcohols alcoholic alcoholics alcoholism alcoholisms
+127871 | popcorn
+127872 | bowtie bowties ribbon ribbons
+127873 | gift gifts gifted gifting present presents
+127874 | cake cakes
+127875 | pumpkin pumpkins jackolantern jackolanterns halloween halloweens
+127876 | christmas xmas
+127877 | santa santas ho hoho hohoho
+127878 | fireworks
+127879 | sparkler sparklers
+127880 | balloon balloons ballooned ballooning
+127882 | confetti
+127885 | bamboo bamboos
+127886 | doll dolls dolly dollies figurine figurines
+127890 | backpack backpacks
+127904 | carousel carousels
+127906 | coaster coasters
+127908 | mic mics microphone microphones vocal vocals
+127911 | headphone headphones headset headsets
+127912 | palette palettes colour colours coloured colouring colourful colourfully color colors colored coloring colorful colorfully
+127913 | tophat tophats
+127914 | circus circuses carnival carnivals
+127915 | ticket tickets ticketed ticketing
+127917 | drama dramas
+127918 | game games gamed gaming gameplay gameplays controller controllers xbox playstation
+127919 | aim aims aimed aiming target targets targetted targetting bullseye bullseyes accuracy accuracies accurate accurately precise precisely precision precisions
+127920 | jackpot jackpots gamble gambles gambled gambling casino casinos
+127922 | dice random randomly randomness randomnesses arbitrary arbitrarily probability probabilities chance chances likelihood likelihoods
+127926 | music musics musical musically musicality musicalities tune tunes melody melodies melodious melodiously
+127927 | saxophone saxophones
+127928 | guitar guitars
+127929 | piano pianos
+127930 | trumpet trumpets
+127931 | violin violins
+127932 | clef clefs treble trebles
+127934 | tennis
+127935 | skis
+127936 | basketball basketballs
+127938 | snowboard snowboards snowboarded snowboarding snowboarder snowboarders
+127939 | run runs ran running runner runners hurry hurries hurried hurrying hurriedly dash dashes dashed dashing sprint sprints sprinted sprinting bolt bolts bolted bolting chase chases chased chasing scurry scurries scurried scurrying scuttle scuttles scuttled scuttling scamper scampers scampered scampering skedaddle skedaddles skedaddled skedaddling rush rushes rushed rushing jog jogs jogged jogging jogger joggers pursuit pursue pursues pursued pursuing pursuer pursuers pursuit pursuits abandon abandons abandoned abandoning abandonment abandonments away
+127940 | surf surfs surfed surfing surfer surfers
+127941 | medal medals medallion medallions
+127942 | trophy trophies prize prizes prized prizewinner prizewinners champ champs champion champions gold golds golden reward rewards rewarded rewarding rewardingly award awards awarded awarding achieve achieves achieved achieving achievement achievements victor victors victory victories victorious victoriously triumph triumphs triumphed triumphing triumphant triumphantly win wins won winning winner winners
+127945 | rugby
+127946 | swim swims swimmed swam swimming swimmer swimmers drown drowns drowned drowning
+127947 | weightlifter weightlifters weightlifting bodybuilder bodybuilders bodybuilding training trainings
+127948 | golf golfs golfed golfing golfer golfers
+127949 | motorcycle motorcycles
+127952 | volleyball volleyballs
+127953 | hockey
+127959 | construction constructions renovate renovates renovated renovating renovation renovations
+127960 | district districts
+127961 | day days daytime daytimes morning mornings daily city cities cityscape cityscapes
+127962 | disrepair dilapidate dilapidates dilapidated dilapidating decrepit decrepitly
+127964 | desert deserts
+127967 | stadium stadiums
+127969 | estate estates home homes house houses cottage cottages
+127973 | healthcare healthcares hospital hospitals hospitalise hospitalised hospitalises hospitalising hospitalisation hospitalisations hospitalize hospitalized hospitalizes hospitalizing hospitalization hospitalizations
+127974 | bank banks
+127975 | atm atms
+127976 | hotel hotels
+127979 | school schools schooled schooling academy academies college colleges campus campuses university universities
+127981 | factory factories industry industries industrial industrials industrially
+127982 | lantern lanterns
+127984 | castle castles castled castling palace palaces
+127989 | rosette rosettes
+127991 | tag tags tagged tagging label labels labelled labelling
+127992 | badminton
+127993 | bow bows bowed bowing crossbow crossbows archer archers archery archeries
+127994 | amphora amphoras
+128000 | rat rats ratted ratting rodent rodents
+128002 | ox oxen
+128003 | buffalo buffaloes
+128006 | leopard leopards
+128009 | dragon dragons
+128010 | crocodile crocodiles croc crocs alligator alligators gator gators
+128011 | whale whales
+128012 | snail snails
+128013 | snake snakes viper vipers serpent serpents serpentine hiss hisses hissed hissing
+128014 | carthorse carthorses packhorse packhorses racehorse racehorses bronco broncos steed steeds cavalry cavalries
+128016 | goat goats
+128017 | ewe ewes sheep sheeps
+128019 | rooster roosters
+128020 | chicken chickens
+128023 | boar boars
+128024 | elephant elephants elephantine
+128025 | octopus octopuses octopi
+128026 | shell shells
+128027 | bug bugs caterpillar caterpillars grub grubs
+128028 | ant ants insect insects
+128029 | bee bees bumblebee bumblebees honeybee honeybees
+128030 | ladybug ladybugs ladybird ladybirds
+128031 | fish fishes seafood seafoods
+128032 | clownfish clownfishes nemo
+128033 | blowfish blowfishes pufferfish pufferfishes fugu fugus
+128034 | turtle turtles tortoise tortoises
+128037 | chick chicks
+128038 | fly flies flying flew flown soar soars soared soaring bird birds birdy birdies birdie birb birbs songbird songbirds avifauna fledgling fledglings nestling nestlings jay jays
+128039 | penguin penguins
+128040 | koala koalas
+128041 | poodle poodles
+128043 | camel camels
+128044 | dolphin dolphins
+128045 | mouse mice
+128046 | cow cows heifer heifers bovine bovines
+128047 | tiger tigers tigress tigresses
+128048 | bunny bunnies rabbit rabbits
+128049 | cat cats kitty kitties kitten kittens feline felines catty puss pusses pussy pussies pussycat pussycats tom toms tomcats tomcat tabby tabbies mouser mousers moggie moggies mog mogs grimalkin grimalkins catlike meow meows meowed meowing
+128052 | horse horses horsed horsing stallion stallions pony ponies
+128053 | monkey monkeys primate primates
+128054 | dog dogs puppy puppies doggy doggies doggier doggiest pup pups canine canines pupper puppers hound hounds mongrel mongrels cur curs whelp whelps whelped whelping pooch pooches mutt mutts doggo doggos woof woofs woofed woofing
+128055 | pig pigs hog hogs swine swines piglet piglets porker porkers baconer baconers
+128056 | frog frogs frogger froggers froggy amphibian amphibians
+128057 | hamster hamsters
+128058 | wolf wolves
+128059 | bear bears ursine ursinely
+128060 | panda pandas
+128061 | snout snouts
+128063 | chipmunk chipmunks squirrel squirrels
+128064 | see sees saw seeing seen discern discerns discerned discerning descry descries descried descrying espy espies espied espying glimpse glimpses glimpsed glimpsing notice notices noticed noticing watch watches watched watching look looks looked looking stare stares stared staring glance glances glanced glancing sight sights eyesight eyesights vision visions eyes pupils retinas corneas irises vision visions
+128065 | eye pupil retina cornea iris
+128066 | ear ears earlobe earlobes eardrum eardrums
+128067 | nose noses smell smells smelled smelling olfactory nasal nasally scent scents scented scenting
+128068 | mouth mouths mouthed mouthing lip lips
+128069 | tongue tongues tongued tonguing
+128073 | this that these those press presses pressed pressing
+128074 | fist fists punch punches punched punching pummel pummels pummeled pummelled pummeling pummelling hit hits hitting
+128075 | ello greet greets greeted greeting greetings hello hey heya hi hiya howdy bye goodbye cya gm goodnight gn waved waving welcome welcomed welcomes welcoming
+128076 | alright aight ok okay oke okeydoke okeydokey okie okiedokie roger righto rightyho capiche
+128077 | good allow allowed allowing allows like liked liking likes thumbsup approve approving approved approves approvals encourage encouraging encouraged encourages permit permits permitted permitting permission permissions authorise authorising authorised authorises authorizes authorize authorizing authorized authorisation authorization authorisations authorizations
+128078 | bad dislike dislikes disliked disliking undermine undermines undermined undermining
+128079 | applause applauses clap claps clapped clapping congrats congratulate congratulates congratulated congratulating congratulation congratulations bravo bravos
+128081 | crown crowns crowned crowning royal royally royalty royalties
+128082 | sunhat sunhats
+128083 | glasses spectacles lens lenses
+128085 | shirt shirts tshirt tshirts tee tees apparel apparels garment garments
+128086 | pants jeans
+128087 | dress dresses dressed dressing skirt skirts gown gowns nightgown nightgowns
+128088 | kimono kimonos
+128089 | bikini bikinis lingerie
+128091 | purse purses
+128092 | handbag handbags
+128095 | shoe shoes sneaker sneakers footwear footwear
+128096 | highheel highheels highheeled heel heels
+128099 | footprint footprints
+128100 | alone solitary solo solos soloed soloing individual silhouette silhouettes silhouetted silhouetting
+128101 | duo duos duoed duoing individuals them they team teams teamed teaming theyll theyre together togetherness togethernesses
+128102 | boy boys boi bois schoolboy schoolboys son sons sonny sonnies laddie laddies brother brothers brotherly
+128103 | girl girls gal gals schoolgirl schoolgirls girly girlier girliest daughter daughters girlie girlies chica chicas sister sisters sisterly loli lolis
+128104 | he his him hes man dude dudes bro bros homie homies guy mr mrs mister misters masculine masculinely masculinity masculinities manly manlier manliest father fathers fatherly dad dads daddy daddies sir sirs boyfriend boyfriends bf bfs husband husbands
+128105 | she her hers woman lady feminine femininely femininity femininities mother mothers motherly mom moms mum mums mommy mommies mummy mummies maam maams girlfriend girlfriends gf gfs wife wives
+128107 | parents parental
+128108 | men guys dudes
+128109 | women gals chicas
+128110 | authority authorities police cop cops constable constables officer officers popo popos polis 911
+128114 | skullcap skullcaps
+128115 | turban turbans
+128116 | grandpa grandpas grandfather grandfathers uncle uncles elderly elder elders senior seniors
+128117 | grandma grandma granny grannies grandmother grandmothers aunt aunts auntie aunties
+128118 | baby babies infant infants fetus fetuses newborn newborns
+128120 | queen queens princess princesses
+128121 | hell hells hellish hellishly satan demon devil rakshasa underworld demonic devilish devilishly satanic satanize satanizes satanized satanizing satanise satanises satanised satanising satanism diabolic diabolical diabolism diabolize diabolized diabolizes diabolizing diabolise diabolised diabolises diabolising fiend fiends fiendish
+128123 | ghost ghosts ghosted ghosting ghostly ghostlier ghostliest apparition apparitions spirit spirits phantom phantoms revenant revenants yokai yokais spook spooks spooked spooking spooky spookily spookier spookiest
+128124 | angel angels angelic angelically seraph seraphs innocent innocently innocence innocences
+128125 | alien aliens alienate alienates alienated alienating extraterrestrial extraterrestrials martian martians
+128128 | skull skulls cranium craniums
+128129 | am for introduce introduced introduces introducing introduction introductions propose proposes proposed proposing proposal proposals
+128131 | dance dances danced dancing waltz waltzes waltzed waltzing sashay sashays sashayed sashaying
+128132 | lipstick lipsticks
+128133 | manicure manicures pedicure pedicures
+128134 | massage massages massaged massaging
+128135 | haircut haircuts hairstyle hairstyles
+128137 | syringe syringes needle needles vaccine vaccines vaccinate vaccinates vaccinated vaccinating vaccination vaccinations inject injects injected injecting injection injections
+128138 | pill pills pilly pillies drug drugs drugged drugging medicine medicines medicinal medicinally repository repositories
+128139 | kiss kisses kissed kissing kisser kissers
+128141 | ring rings jewelry jewelries jewellery jewelleries trinket trinkets
+128142 | diamond diamonds zircon zircons gemstone gemstones gem gems
+128144 | bouquet bouquets
+128147 | heartbeat heartbeats pulse pulses pulsed pulsing pulsate pulsate pulsates pulsated pulsating pulsation pulsations
+128148 | heartache heartaches heartbreak heartbreaks heartbroken
+128161 | light lights lighting lightings bulb bulbs idea ideas
+128163 | bomb bombs bombed bombing bomber bombers bombard bombards bombarded bombarding bombardment bombardment bombshell bombshells
+128164 | zzz zzzz zzzzz zzzzzz zzzzzzz
+128165 | bang bangs banged banging boom booms boomed booming pop pops popped popping burst bursts bursted bursting collide collides collided colliding collision collisions impact impacts impacted impacting impactful impactfully
+128166 | droplets teardrops raindrops condensation condensations dew dews dewy dewily dewier dewiest splash splashes splashed splashing
+128167 | water waters watery wet wetter wettest moist moister moistest moistly moisture moistures droplet drip drips dripped dripping teardrop raindrop
+128168 | puff puffs puffed puffing fart farts farted farting
+128169 | poop poops pooped pooping poo poos pooed pooing shit shits shat shitting shart sharts sharted sharting caca feces faeces excrement excrements dung dungs manure shid shids
+128170 | arm arms muscle muscles muscly musclier muscliest muscular muscularly burly burlier burliest brawny brawnier brawniest brawnily buff buffs buffed buffing buffer buffest buffly flex flexes flexed flexing strong stronger strongest strongly strength strengths strenghten strenghtens strengthened strengthening
+128172 | say says said saying sayings speech speeches talk talks talked talking talker talkers converse converses conversed conversing conversation conversations chat chats chatted chatting comment comments commented commenting
+128173 | imagine imagines imagined imagining imaginary imaginarily imagination imaginations dream dreams dreamed dreamt dreaming dreamy dreamily dreamier dreamiest
+128175 | 100 100s hundred hundreds
+128176 | loot loots looted looting
+128179 | credit credits cashless
+128180 | yen yens
+128181 | banknote banknotes buck bucks currency currencies cash dollar dollars funds money moolah finance finances financed financing financial financially usd price prices pricily pricy pricier priciest expensive expensively costly costlier costliest exorbitant exorbitantly budget budgets
+128182 | euro euros
+128186 | seat seats seated seating seatings
+128187 | laptop laptops chromebook chromebooks macbook macbooks
+128188 | briefcase briefcases suitcase suitcases
+128191 | disk disks disc discs
+128192 | dvd dvds
+128193 | file files filed filing
+128197 | calendar calendars date dates month months monthly
+128200 | more increase increased increases increasing increment increments incremental rise rises rising risen escalate escalated escalates escalating escalation escalations surge surged surges surging upsurge upsurges
+128202 | graph graphs graphed graphing
+128203 | clipboard clipboards bulletin bulletins
+128204 | pushpin pushpins thumbtack thumbtacks tack tacks
+128206 | clip clips clipped clipping
+128207 | ruler rulers measure measures measured measuring measurement measurements
+128208 | setsquare setsquares
+128211 | notebook notebooks
+128213 | book books
+128214 | textbook textbooks story stories storybook storybooks novel novels novella novellas fiction fictions fictional read reads reading readings study studies studied studying review reviews reviewed reviewing
+128216 | dictionary dictionaries
+128218 | pile piles piled piling stack stacks stacked stacking
+128221 | note notes footnote footnotes memo memos summary summaries summarise summarises summarised summarising summarisation summarisations summarize summarizes summarized summarizing summarization summarizations
+128223 | pager pagers
+128225 | satellite satellites
+128226 | loudspeaker loudspeakers announce announces announced announcing announcement announcements broadcast broadcasts broadcasted broadcasting
+128227 | megaphone megaphones
+128230 | box boxes package packages
+128231 | email emails emailed emailing
+128235 | mailbox mailboxes
+128240 | newspaper newspapers news
+128241 | phone phones smartphone smartphones handphone handphones
+128247 | camera cameras photography photographies
+128249 | video videos footage footages
+128250 | television televisions tv tvs
+128251 | radio radios stereo stereos
+128255 | bracelet bracelets
+128257 | loop loops looped looping
+128263 | mute mutes muted muting
+128265 | volume volumes loudness loudnesses
+128266 | sound sounds sounded sounding
+128267 | battery batteries
+128268 | plug plugs plugged plugging
+128269 | find finds found finding search searches searched searching magnify magnifies magnified magnifying magnification magnifications
+128273 | key keys
+128274 | lock locks locked locking padlock padlocks secure secures secured securing
+128275 | unlock unlocks unlocked unlocking
+128276 | bell bells ding dings dinged dinging
+128278 | bookmark bookmarks
+128279 | link links linked linking connect connects connected connecting
+128280 | button buttons
+128287 | ten tens 10
+128288 | uppercase
+128289 | lowercase letter letters
+128290 | number numbers numeral numerals numeric numerically digit digits
+128291 | symbol symbols
+128292 | abc abcs alphabet alphabets alphabetical alphabetically alphabetise alphabetises alphabetised alphabetising alphabetisation alphabetisations alphabetize alphabetizs alphabetized alphabetizing alphabetization alphabetizations text word words worded wording diction dictions
+128293 | fire fires fiery fierier fieriest fierily flame flames flamed flaming ablaze blaze blazes blazed blazing inferno infernoes firestorm firestorms wildfire wildfires conflagrate conflagrates conflagrated conflagration conflagrations hellfire hellfires
+128294 | flashlight flashlights
+128295 | adjust adjusts adjusted adjusting adjustment adjustments wrench wrenches wrenched wrenching utility utilities utilitarian utilitarians utilitarianism utilitarianisms
+128296 | hammer hammers hammered hammering sledgehammer sledgehammers sledgehammered sledgehammering mallet mallets
+128298 | knife knives cut cuts cutting carve carves carved carving slice slices sliced slicing dices diced dicing
+128299 | armed gun pistol supersoaker shoot shoots shot shots shooting
+128300 | microscope microscopes microscopic microscopically micro
+128301 | telescope telescopes
+128302 | predict predicts predicted predicting prediction predictions premonition premonitions
+128308 | burgundy carmine crimson maroon reddish rufescent vermilion red
+128309 | blue aqua azure cerulean cyan lapis navy turquoise
+128330 | dove doves
+128332 | mosque mosques temple temples
+128333 | synagogue synagogues
+128345 | during when whenever clock clocks second seconds minute minutes hour hours hourly daily week weeks weekly year years yearly decade decades millennium millennia eternity eternities future futures time times timely timeless timelessly timelessness timelessnesses wait waits waited waiting
+128367 | candle candles candlelight candlelights
+128371 | hole holes holed holing pit pits
+128373 | detective detectives investigate investigates investigated investigating investigation investigations investigator investigators gumshoe gumshoes sleuth sleuths inspector inspectors spy spies spied spying
+128374 | sunglasses
+128375 | spider spiders spidery arachnid arachnids
+128376 | web webs webbed webbing cobweb cobwebs
+128377 | joystick joysticks
+128394 | pen pens
+128396 | paintbrush paintbrushes
+128397 | crayon crayons crayola
+128421 | computer computers pc pcs
+128424 | fax faxes print prints printed printing printer printers
+128444 | pic pics picture pictures photo photos polaroid polaroids photograph photographs
+128451 | sort sorts sorted sorting archive archives archived archiving
+128452 | cabinet cabinets
+128466 | notepad notepads
+128476 | clamp clamps clamped clamping
+128483 | ramble rambles rambled rambling chitchat chatter chatters chattered chattering tell tells told telling snitch snitches snitched snitching speak speaks spoke speaking shout shouts shouted shouting yell yells yelled yelling
+128499 | vote votes voted voting ballot ballots balloted balloting
+128506 | map maps mapped mapping geography geographies geographical geographically
+128511 | moai moaist
+128514 | lol lmao haha lmfao ha hahaha hahahaha hahahahaha hahahahahaha hahahahahahaha hahahahahahahaha hahahahahahahahaha hahahahahahahahahaha humor humour humours humors humorous funny funnier funniest lmao comic comical comics comically comedy comedic comedian comedians comedienne comediennes humorist humorists joke jokes joked joking joker jokers jokester jokesters gagster gagsters jest jests jested jesting laugh laughing laughs laughed guffaw guffaws guffawed guffawing chortle chortles chortled chortling injoke injokes ribtickler ribticklers
+128518 | mock mocked mocks mocking mockingly mocker mockers mockery mockeries deride derides deriding derided derisions derision prank pranks pranked pranking prankster pranksters giggle giggles giggled giggling teehee teehees teeheed teeheeing tehee tehees teheed tehe titter titters tittered tittering snigger sniggers sniggered sniggering sneer sneers sneered sneering ridicule ridiculed ridicules ridiculing poohpooh poohpoohs poohpoohed poohpoohing satirise satirises satirised satirising satirize satirizes satirized satirizing hilarious hilariously hilarity hilarities taunt taunts taunted taunting waggish playful playfully playfulness playfulnesses lighthearted frisky friskier friskiest risible ribtickling pun puns punnier punniest oneliner oneliners boffola boffolas lolz ecksdee xd joyful joyfully
+128519 | halo halos holy holier holiest forgive forgives forgived forgiven forgiving forgivingly forgiveness forgivenesses
+128520 | evil evils wicked wickedness wickednesses wickedly evildoer evildoers immoral immorality immoralities sin sins sinned sinning sinful ungodly unholy unholier unholiest iniquitous deprave depraved depraves depraving depravity depravities nefarious vicious viciously viciousness viciousnesses malice malices malicious maliciously malevolent malevolence malevolences monstrous monster monsters monstrosity monstrosities despicable heinous dastardly dastard dastards flagitious peccable malefactor malefactors scoundrel scoundrels
+128521 | wink winks winked winking
+128523 | eat eats ate eating eaten consume consumes consumed consuming devour devours devoured devouring feed feeds fed feeding guzzle guzzles guzzled guzzling gobble gobbles gobbled gobbling hunger hungry hungrily hungrier hungriest ravenous starving starvingly famished peckish peckishly esurient esuriently palate palates flavor flavors flavour flavours taste tastes tasted tasting tasty tastily tastier tastiest savour savours savoured savouring savor savors savored savoring delicacy delicacies delicious deliciously deliciousness deliciousnesses delish palatable luscious lusciously mouthwatering mouthwateringly delectable delectably toothsome succulent succulently appetising appetizing appetisingly appetizingly piquant piquantly flavoursome flavorsome flavourful flavorful flavourfully flavorfully fullflavoured fullflavored scrumptious scrumptiously scrumdiddlyumptious yum yumyum yummy yummily yummier yummiest scrummy scrummily scrummier scrummiest fingerlicking moreish moreishly flavorous flavorously
+128524 | relax relaxes relaxed relaxing calm calmly calmer calmest chillax chillaxes chillaxed chillaxing
+128525 | adore adores adored adoring adoration adorations adorable adorably infatuate infatuates infatuated infatuating infatuation infatuations gorgeous gorgeously love loves loved
+128526 | badass cool cooler coolest coolly kewl kool dope doper dopest swag swagger swaggers
+128527 | smirk smirks smirked smirking smug smugger smuggest smugly suggestive suggestively
+128528 | bland blander blandest blandly neutral neutrally neutrality neutralities expressionless expressionlessly emotionless emotionlessly indifferent indifferently indifference indifferences
+128530 | annoy annoys annoyed annoying annoyingly annoyance annoyances irritate irritates irritated irritating irritatingly irritation irritations irritable irritably exasperate exasperates exasperated exasperating exasperatingly irk irks irked irking irksome irksomely disgruntle disgruntles disgruntled disgruntling vex vexes vexed vexing vexingly vexation vexations displease displeases displeased displeasing displeasure displeasures unsatisfied unsatisfactory dissatisfy dissatisfies dissatisfied dissatisfying dissatisfaction dissatisfactions sulk sulks sulked sulking despise despises despised despising lame lamely lamer lamest
+128532 | sorry sorries apologise apologises apologised apologising apologize apologizes apologized apologizing apology apologies depress depresses depressed depressing depression depressions disappoint disappoints disappointed disappointing sigh sighs sighed sighing regret regrets regretted regretting regretful regretfully shame shames shamed shaming
+128536 | flirt flirts flirted flirting flirtatious flirtatiously catcall catcalls catcalled catcalling
+128537 | suck sucks sucked sucking sip sips sipped sipping slurp slurps slurped slurping
+128539 | playful playfully
+128540 | taunt taunts taunted taunting brag brags bragged bragging braggard braggards braggadocious braggadociously mischievous mischievously mischief mischiefs cheeky cheekily cheekier cheekiest
+128544 | mald malds malded malding
+128545 | hate hates hated hating hater haters hatred hatreds angry angrily angrier angriest anger angers furious furiously fury furies enraged violent violence violences violently
+128546 | cry cries cried crying
+128548 | seethe seethes seethed seething
+128553 | moan moans moaned moaning groan groans groaned groaning
+128554 | still snore snores snored snoring snorer snorers drowsy drowsier drowsiest drowsily
+128556 | grimace grimaces grimaced grimacing cringe wince winces winced wincing cringes cringed cringing cringy cringey cringier cringiest cringily cringeworthy yikes sheesh jeez ow ouch ouchie ouchies youch yowza gee geez gosh awkward awkwarder awkwardest awkwardly awkwardness awkwardnesses
+128557 | sob sobs sobbed sobbing wail wails wailed wailing weep weeps weeped wept weeping bawl bawls bawled bawling
+128560 | afraid scare scares scared scaring fear fears feared fearing fearful fearfully timid timidly intimidate intimidates intimidated intimidating intimidation intimidations coward cowards cowardice cowardices cowardly
+128563 | oop oops oopsie oopsies embarrass embarrasses embarrassed embarrassing embarrassingly
+128564 | asleep sleep sleeps slept sleeping slumber slumbers nap naps napped napping doze dozes dozed dozing drowse drowses drowsed drowsing zzz zzzs
+128565 | die dies died dying perish perishes perished perishing flatline flatlines flatlined flatlining dead deceased lifeless lifelessly lifelessness lifelessnesses
+128567 | mask masks masked masking
+128578 | smile smiles smiled smiling nice nicer nicest nicely
+128580 | ignore ignores ignored ignoring ignorant ignorantly ignorance ignorances ignoramus ignoramuses
+128581 | nah nope nuhuh no nos noes decline declines declined declining noncompliance noncompliances reject rejects rejected rejecting rejection rejections refuse refuses refused refusing refusal refusals
+128583 | obedient obediently obedience obediences compliant compliantly compliance compliances submissive submissively
+128587 | raise raises raised raising lift lifting lifts lifted upraise upraises upraised upraising hoist hoists hoisted hoisting upheave upheaves upheaved upheaving uprear uprears upreared uprearing
+128588 | surrender surrenders surrendered surrendering
+128590 | serious seriously seriousness seriousnesses stoic stoics stoical stoically
+128591 | pray prays prayed praying prayer prayers worship worships worshipped worshipping wish wishes wished wishing
+128640 | rocket rockets missile missiles spaceship spaceships spacecraft spacecrafts rocketing rocketed upthrust upthrusts liftoff liftoffs blastoff blastoffs
+128641 | helicopter helicopters
+128642 | locomotive locomotives
+128643 | carriage carriages
+128646 | train trains
+128649 | station stations
+128650 | tram trams
+128652 | bus buses
+128656 | minibus minibuses
+128657 | ambulance ambulances
+128658 | firetruck firetrucks
+128661 | taxi taxis
+128663 | car cars automobile automobiles vehicle vehicles vehicular drive drives drove driving driven
+128666 | truck trucks
+128667 | lorry lorries
+128668 | tractor tractors
+128669 | monorail monorails
+128674 | ship ships
+128676 | speedboat speedboats
+128678 | traffic
+128679 | barrier barriers barricade barricades barricaded barricading
+128680 | alarm alarms alarmed alarming siren sirens
+128681 | flag flags flagged flagging report reports reported reporting
+128682 | door doors doored dooring doorway doorways entrance entrances exit exits
+128683 | prohibit prohibits prohibited prohibiting cancel cancels cancelled cancelling forbid forbids forbade forbidding forbidden
+128684 | smoked smoking smoker smokers cigar cigars cig cigs ciggy ciggies cigarette cigarettes
+128690 | bicycle bicycles bike bikes
+128694 | come comes came coming walking walk walks walked go goes going went amble ambling ambled ambles saunter saunters sauntering sauntered stroll strolled strolling strolls walking plod plodded plods plodding hike hikes hiked hiking hiker hikers tramp tramps tramped tramping trek treks trekking trekked trekker trekkers walker walkers march marches marching marched marchers marcher stride strode strides striding stridden wander wanders wandered wandering wanderer wanderers tread treads treading trod trodden footslog footslogs footslogging footslogged roam roamed roams roaming traipse traipses traipsing traipsed mosey moseys moseyed moseying pootle pootled pootles pootling yomp yomps yomped yomping perambulate perambulates perambulated perambulating perambulator perambulators follow follows followed following followings
+128701 | toilet toilets urinal urinals
+128703 | shower showers showered showering showerhead showerheads
+128704 | bath bathe bathes bathed bathing
+128705 | bathtub bathtubs
+128715 | furniture
+128716 | coma comas comatose unconscious
+128717 | buy buys bought buying purchase purchases purchased purchasing shopping
+128719 | bed beds mattress mattresses
+128722 | trolley trolleys cart carts
+128726 | hut huts shed sheds kampong kampongs
+128732 | wifi wifis
+128733 | playground playgrounds slide slides slided slid sliding
+128734 | wheel wheels wheeled wheeling
+128737 | shield shields shielded shielding protect protects protected protecting protection protections defence defences defense defenses defensive defensively defend defends defended defending
+128739 | road roads path paths pathway pathways motorway motorways expressway expressways freeway freeways highway highways
+128740 | rail rails railed railing railway railways railyard railyards
+128747 | takeoff takeoffs
+128748 | landing landings
+128755 | cruise cruises cruised cruising cruiser cruisers
+128756 | scooter scooters
+128757 | deliver delivers delivered delivering delivery deliveries
+128758 | boat boats boated boating canoe canoes canoed canoeing
+128759 | sled sleds
+128760 | ufo ufos
+128761 | skateboard skateboards
+128764 | rollerskate rollerskates
+128992 | orange amber ochre
+128993 | aureate primrose yellow yellowish yellowy
+128994 | green chartreuse viridescent viridian
+128995 | purple fuchsia lavender lilac magenta mauve violet
+128996 | brown hazel mahogany tawny
+129008 | equal equals equally equality equalities equivalent equivalently
+129295 | pinch pinches pinched pinching small smaller tiny tinier tiniest puny punier puniest little insignificant insignificantly insignificance insignificances
+129297 | greed greeds greedy greedier greediest greedily materialistic materialistically capitalist capitalists capitalism capitalisms cheap cheaply cheaper cheapest cheapskate cheapskates
+129298 | fever fevers feverish feverishly sick sickly sicker sickest illness illnesses ailment ailments
+129299 | geek geeks geeky geekier geekiest geekily nerd nerds nerdy nerdier nerdiest nerdily ugly uglier ugliest
+129300 | think thinks thought thinking consider considers considered considering consideration considerations reconsider reconsiders reconsidered reconsidering reconsideration reconsiderations kevaluate evaluates evaluated evaluating evaluation evaluations estimate estimates estimated estimating estimation estimations guess guesses guessed guessing contemplate contemplates contemplated contemplating contemplation contemplations ruminate ruminates ruminated ruminating rumination ruminations cogitate cogitates cogitated cogitating would uncertain uncertainly unsure unsurely uncertainty uncertainties maybe might mightve mustve wouldve hmm hmmm hmmmm hmmmmm hmmmmmm hmmmmmmm uh
+129301 | concussion concussions concussed injury injuries injure injures injured injuring wound wounds wounded wounding recover recovers recovered recovering recovery recoveries
+129302 | ai ais android androids automaton automatons bot bots droid droids robot robots robotic robotically machine machines
+129309 | handshake handshakes
+129312 | cowboy cowboys
+129313 | clown clowns clowned clowning clownery clowneries
+129314 | nausea nauseas nauseated nauseating ew eww ewww ewwww ewwwww ewwwwww ewwwwwww disgust disgusts disgusted disgusting disgustingly repulse repulses repulsed repulsing repulsive repulsively repulsion repulsions poisoned poisoning poisonings poisonous poisonously toxic toxically toxicity toxicities
+129315 | rofl cackle cackles cackled cackling sidesplitting kneeslapper kneeslappers thighslapper thighslappers
+129316 | crave craves craved craving cravings drool drools drooled drooling drooler droolers saliva salivate salivates salivated salivating desire desires desired desiring
+129317 | lie lies lied lying liar liars deceive deceives deceived deceiving deceit deceits deceitful deceitfully bullshit bullshits bullshitted bullshitting bullshitter bullshitters
+129318 | bruh bruhh bruhhh bruhhhh bruhhhhh bruhhhhhh bruhhhhhhh facepalm facepalms facepalmed facepalming
+129319 | sneeze sneezes sneezed sneezing achoo achooo achoooo achooooo achoooooo achooooooo
+129320 | ayo ayoo ayooo ayoooo ayooooo ayoooooo ayooooooo sus sussy suspicious suspiciously suspicion suspicions strange strangely strangest peculiar peculiarity peculiarities weird weirdly weirder weirdest odd oddly odder oddest judge judges judged judging judgy judgier judgiest judgmental judgmentally judgemental judgementally
+129321 | starstruck beauty beauties beautiful beautifully glamorous glamorously glamor glamors glamour glamours stunning stunningly glorious gloriously
+129322 | gibberish gobbledygook balderdash claptrap nonsense poppycock blarney guff blether hogwash tripe drivel bilge bosh malarkey insane crazy crazier craziest berserk deranged lunatic demented unhinged unstable mental bonkers cuckoo loopy loony loco dippy dippier dippiest screwy screwier screwiest batty barmy barmier barmiest doolally wacko nutsy nutsier nutso meshuga gonzo yarra porangi slapstick wacky wackier wackiest zany zanier zaniest blague blagues dumb stupid idiotic moronic baka idiot idiots moron morons stupidity stupidities stupidly stupider stupidest braindead unintelligence dumber dumbest dumbness dumbnesses doltish dolt dolts fool fools foolish foolishly foolishness foolishnesses idiocy idiocies mindless mindlessly slowwitted halfwit halfwits halfwitted nincompoop nincompoops dunce dunces dullwitted witless blockish emptyheaded vacuous imbecile imbeciles cretinous lumpish halfbaked thickheaded dunderhead dunderheads chucklehead chuckleheads woodenheaded fatheaded thickskulled muttonhead muttonheads bonehead boneheads lamebrain lamebrains birdbrain birdbrains peabrained peabrain peabrains daft dafter daftest dof dotish dumbass dumbasses cretin cretins dullard dullards ninny ninnies chump chumps dimwit dimwits nitwit nitwits goon goons dumbo dumbos dumdum dumdums loon loons jackass jackasses numbskull numbskulls blockhead blockheads knucklehead knuckleheads puddinghead puddingheads thickhead thickheads woodenhead woodenheads airhead airhead twit twits numpty numpties berk berks pillock pillocks wally wallies wazzock wazzocks nerk nerks twerp twerps twonk twonks muppet muppets nyaff nyaffs sumph sumphs gobdaw gobdaws schmuck schmucks bozo bozos schlepper schleppers chowderhead chowderheads dumbhead dumbheads
+129323 | shush shushes shushed shushing shh shhh shhh shhhh shhhhh shhhhhh shhhhhhh quiet quietly quieter quietest quietness quietnesses quieten quietens quietened quietening silent silently silenter silentest silence silences secret secrets secretive secretively hide hides hid hiding
+129324 | fk fked fking fucking fuck fucked fucking fucker fuckers frick fricked fricking mf mfs mofo mofos motherfucker motherfuckers motherfucking wtf wth expletive expletives slur slurs stfu bitch bitches cunt cunts goddamn
+129325 | chuckle chuckles chuckled chuckling chucklesome lampoon lampoons lampooned lampooning tease teases teased teasing
+129326 | vomit vomits vomitted vomitting chunder chunders chundered chundering regurgitate regurgitates regurgitated regurgitating regurgitation regurgitations
+129327 | mindblown
+129328 | pregnant pregnancy pregnancies impregnate impregnates impregnated impregnating impregnator impregnators inseminate inseminates inseminated insemination reproduction reproductions reproductive reproductivity reproductivities gestation gestations
+129330 | hands handful handfuls
+129331 | selfie selfies livestream livestreams vlog vlogs vlogged vlogging vlogger vloggers
+129332 | king kings prince princes
+129333 | tuxedo tuxedos president presidents presidency presidencies presidential presidentially
+129335 | shrug shrugs shrugged shrugging nonchalant nonchalantly idk idfk any
+129336 | cartwheel cartwheels cartwheeled cartwheeling stunt stunts
+129337 | juggle juggles juggled juggling juggler jugglers
+129340 | wrestle wrestles wrestled wrestling
+129342 | dunk dunks dunked dunking dunker dunkers
+129344 | wilt wilts wilted wilting wither withers withered withering
+129345 | drum drums drummed drumming drumbeat drumbeats drumroll drumrolls
+129346 | quaff quaffs quaffed quaffing
+129348 | spoon spoons spooned spooning spoonfeed spoonfeeds spoonfed spoonfeeding
+129349 | goal goals
+129351 | first firstly 1st
+129352 | secondly 2nd
+129353 | third thirdly 3rd
+129354 | boxing
+129355 | karate kungfu judo jujutsu taekwondo wushu martial
+129357 | lacrosse
+129358 | softball softballs
+129359 | frisbee frisbees
+129360 | croissant croissants
+129361 | avocado avocados
+129362 | cucumber cucumbers zucchini zucchinis courgette courgettes
+129363 | bacon bacons
+129364 | potato potatoes
+129365 | carrot carrots
+129366 | baguette baguettes
+129367 | salad salads
+129370 | egg eggs
+129371 | milk milks milked milking milky milkier milkiest
+129373 | kiwi kiwis
+129374 | pancake pancakes
+129375 | dumpling dumplings
+129377 | takeaway takeaways takeout takeouts
+129378 | chopsticks
+129379 | mix mixes mixed mixing stir stirs stirred stirring
+129380 | drink drinks drank drunk drinking
+129381 | coconut coconuts
+129382 | broccoli broccolis veg vegs veggie veggies vegetable vegetables
+129383 | pie pies
+129384 | pretzel pretzels
+129385 | meat meats meaty meatily meatier meatiest steak steaks
+129386 | sandwich sandwiches
+129388 | lettuce lettuces cabbage cabbages kale kales
+129389 | mango mangoes
+129391 | bagel bagels
+129392 | loving lovingly cherish cherishes cherished cherishing nya nyah
+129393 | yawn yawns yawned yawning tired exhausted fatigued lethargic sleepy bore bores bored boring uninteresting easy easier easiest easily
+129395 | celebrate celebrates celebrated celebrating celebrator celebrators celebratory celebratorily party parties partied partying partygoer partygoers
+129396 | woozy woozily woozier wooziest uncomfortable uncomfortably discomfort discomforts awkward awkwardly awkwarder awkwardest awkwardness awkwardnesses
+129397 | breedable beddable sexy sexier sexiest sexily seductive seductively seduction seductions
+129398 | cold coldly colder coldest frigid frigidly frigider frigidest chilly chillier chilliest frosty frostily frostier frostiest
+129399 | ninja ninjas
+129400 | disguise disguises disguised disguising disguiser disguisers guise guises facade facades
+129402 | plead pleads pleaded pleading beg begs begged begging please shy shyly shyer shyest want wants wanted wanting
+129403 | sari saris
+129405 | goggles
+129406 | boot boots
+129408 | crab crabs crabby crabbier crabbiest crabbily
+129409 | lion lions lioness lionesses mane manes
+129410 | scorpion scorpions
+129411 | turkey turkeys
+129412 | unicorn unicorns
+129413 | eagle eagles
+129414 | duck ducks quack quacks quacked quacking
+129415 | bat bats
+129416 | shark sharks
+129417 | owl owls nocturnal
+129418 | fox foxes
+129419 | butterfly butterflies
+129420 | deer reindeer reindeers
+129421 | ape apes chimp chimps chimpanzee chimpanzees gorilla gorillas
+129422 | lizard lizards chameleon chameleons gecko geckos
+129423 | rhino rhinos rhinoceros rhinoceroses
+129424 | prawn prawns shrimp shrimps
+129425 | squid squids
+129426 | giraffe giraffes
+129427 | zebra zebras
+129428 | hedgehog hedgehogs porcupine porcupines
+129429 | dino dinos dinosaur dinosaurs sauropod sauropods
+129430 | trex trexes tyrannosaurus rex
+129431 | cricket crickets
+129432 | kangaroo kangaroos roo roos
+129433 | llama llamas alpaca alpacas
+129434 | peacock peacocks
+129435 | hippo hippos hippopotamus hippopotamuses
+129436 | parrot parrots cockatoo cockatoos
+129437 | raccoon raccoons
+129438 | lobster lobsters
+129439 | mosquito mosquitoes bloodsucking bloodsucker bloodsuckers
+129440 | microorganism microorganisms microbe microbes bacterium bacteria germ germs virus viruses
+129441 | badger badgers
+129442 | swan swans
+129443 | mammoth mammoths
+129445 | sloth sloths
+129446 | otter otters
+129447 | orangutan orangutans
+129448 | skunk skunks
+129449 | flamingo flamingos
+129450 | oyster oysters
+129451 | beaver beavers
+129452 | bison
+129455 | cane canes caned caning
+129460 | bone bones
+129461 | leg legs legged quadriceps thigh thighs calf calves
+129462 | foot feet
+129463 | tooth teeth dental
+129464 | superhero superheroes hero heroes superhuman
+129465 | antagonist antagonists antagonistic antagonisticaly antagonism antagonisms supervillain supervillains villain villains villainous villainously
+129466 | vest vests highvisibility
+129469 | wheelchair wheelchairs
+129470 | bionic
+129471 | prosthesis prostheses prosthetic prosthetics
+129472 | cheese cheesy cheesier cheesiest brie camembert cheddar edam emmental fontina gorgonzola mascarpone mozzarella provolone roquefort
+129473 | cupcake cupcakes
+129474 | salt salts salty saltier saltiest saltily sugar sugars sugary
+129475 | juice juices juiced juicing
+129476 | garlic garlics garlicky
+129477 | onion onions
+129479 | waffle waffles
+129480 | butter butters margarine margarines buttery
+129482 | ice iced icy icier iciest icily freeze freezes freezed freezing
+129483 | boba bobas
+129485 | i im ill me my stand stands stood standing upright normie normies biped bipeds human humans mortal mortals earthling earthlings body bodies be been being
+129486 | kneel kneels kneeled knelt kneeling
+129487 | deaf deafly deafer deafest deafness deafnesses deafen deafens deafened deafening
+129488 | monocle monocles
+129489 | face faces head heads person
+129490 | child children childish childishly juvenile juveniles junior juniors young youngly younger youngest kid kids kiddy sissy sissies
+129493 | headscarf headscarves hijab hijabs
+129494 | sauna saunas
+129495 | climb climbs climbed climbing climber climbers rappel rappels rappelled rappelling rockclimb rockclimbs rockclimbed rockclimbing
+129496 | meditate meditates meditated meditating meditation meditations yoga yogas
+129498 | fairy fairies pixie pixies
+129499 | vampire vampires vampiric vampirically
+129501 | elf elves
+129502 | genie genies djinn djinns jinn jinns
+129503 | zombie zombies zombify zombifies zombified zombifying undead
+129504 | smart smarts smartly smarter smartest smarty smartie smarties clever cleverly cleverer cleverest mind minds brain brains brainy brainier brainiest brainily cerebrum cerebrums cerebral encephalon encephalons hippocampus brainstorm brainstorms brainstormed brainstorming
+129506 | cap caps capped capping
+129507 | scarf scarves
+129508 | glove gloves mitten mittens
+129510 | sock socks
+129512 | firecracker firecrackers dynamite dynamites
+129513 | puzzle puzzles
+129514 | chemical chemicals chemically poison poisons venom venoms
+129515 | petri
+129516 | dna gene genes genetic genetics genetically allele alleles
+129517 | compass compasses position positions coordinate coordinates latitude latitudes longitude longitudes
+129519 | extinguish extinguishes extinguished extinguishing extinguisher extinguishers
+129520 | toolbox toolboxes
+129521 | brick bricks bricked bricking
+129522 | magnet magnets magnetic magnetically magnetism magnetisms magnetisation magnetisations magnetization magnetizations electromagnet electromagnets electromagnetic electromagnetically electromagnetism electromagnetisms electromagnetisation electromagnetisations electromagnetization electromagnetizations ferromagnetic ferromagnetically ferromagnetism ferromagnetisms
+129523 | baggage baggages luggage luggages
+129524 | lotion lotions
+129525 | thread threads threaded threading
+129526 | yarn yarns
+129528 | teddy teddies toy toys
+129529 | broom brooms sweep sweeps sweeped swept sweeping clean cleans cleaned cleaning
+129530 | basket baskets
+129531 | wipe wipes wiped wiping
+129532 | soap soaps soapy soapily soapier soapiest
+129533 | sponge sponges spongy spongier spongiest spongiform scrub scrubs scrubbed scrubbing scour scours scoured scouring
+129534 | test tests worksheet worksheets assignment assignments assess assesses assessed assessing assessment assessments receipt receipts exam exams examination examinations homework schoolwork schoolworks survey surveys surveyed surveying counterfoil counterfoils docket dockets docketed docketing rule rules regulation regulations statute statutes statutory
+129649 | swimsuit swimsuits
+129650 | underwear underwears undergarment undergarments
+129651 | trousers
+129652 | sandal sandals slipper slippers
+129656 | blood bloods bleed bleeds bled bleeding hemoglobin haemoglobin menstruate menstruates menstruated menstruating menstruation menstruations
+129657 | bandage bandages bandaged bandaging bandaid bandaids
+129658 | stethoscope stethoscopes
+129659 | xray xrays ribcage ribcages
+129660 | crutch crutches crutched crutching
+129664 | yoyo yoyos
+129665 | kite kites kited kiting
+129666 | parachute parachutes parachuted parachuting parachuter parachuters
+129667 | boomerang boomerangs boomeranged boomeranging
+129668 | magic magics magical magically
+129669 | pinata pinatas pi�ata pi�atas
+129670 | matryoshka
+129671 | maracas
+129672 | flute flutes
+129680 | planet planets planetary saturn saturns
+129681 | chair chairs
+129682 | razor razors
+129683 | axe axes
+129685 | banjo banjos
+129686 | military militaries war wars warfare warfares
+129687 | accordion accordions
+129689 | coin coins coined coining coinage coinages cent cents penny pennies dime dimes
+129691 | screwdriver screwdrivers
+129692 | ladder ladders
+129693 | hook hooks hooked hooking
+129694 | mirror mirrors mirrored mirroring reflect reflects reflected reflecting reflective reflectively
+129695 | window windows
+129696 | plunger plungers
+129698 | knot knots knotted knotting
+129699 | bucket buckets pail pails
+129700 | lure lures lured luring
+129701 | toothbrush toothbrushes brush brushes brushed brushing
+129702 | grave graves gravestone gravestones tomb tombs tombstone tombstones burial burials
+129703 | sign signs signed signing signal signals placard placards
+129704 | rock rocks stone stones stony stonier stoniest stonily pebble pebbles
+129705 | disco discos
+129706 | card cards
+129709 | fan fans fanned fanning
+129710 | comb combs combed combing
+129713 | worm worms wormed worming earthworm earthworms
+129714 | beetle beetles
+129715 | cockroach cockroaches roach roaches
+129716 | grow grows grew growing grown growth growths plant plants shrub shrubs vegetation undergrowth potting potted weed weeds
+129717 | wood wooden
+129718 | feather feathers feathered
+129719 | lotus lotuses
+129720 | coral corals
+129721 | nest nests nested nesting
+129725 | wing wings
+129728 | cardiac cardiovascular
+129729 | trachea alveolus alveoli lung lungs breath breaths breathe breathes breathed breathing inhale inhales inhaled inhaling inhalation inhalations respire respires respired respiring respiration respirations respiratory bronchitis pneumonia pneumonoultramicroscopicsilicovolcanoconiosis pulmonary
+129730 | hug hugs hugged hugging cuddle cuddles cuddled cuddling embrace embraces embraced embracing
+129731 | fat fatly fatter fattest obese obesely obesity obesities overweight
+129744 | blueberry blueberries berry berries
+129745 | capsicum capsicums
+129746 | olive olives
+129747 | flatbread flatbreads pita pitas
+129750 | teapot teapots
+129751 | pour pours poured pouring spill spills spilled spilling decant decants decanted decanting decantation decantations
+129753 | jar jars container containers canister canisters
+129761 | salute salutes saluted saluting salutation salutations respect respects respected respecting respectful respectfully admire admires admired admiring admiration admirations
+129763 | peek peeks peeked peeking peeping
+129767 | bubble bubbles bubbly bubblier bubbliest suds
+129779 | touch touches touched touching fondle fondles fondled fondling
+129781 | ya you your youre youse yourself yourselves
+129784 | push pushes pushed pushing shove shoves shoved shoving
